@@ -18,7 +18,7 @@
 
 ### Testing Documentation
 
-- [Checklists] (https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=0)
+- [Checklists](https://github.com/hinachkina/checklist)
 - [Test-Suites and Test-Cases](https://github.com/hinachkina/test-cases)
 - [Bug-Reports](https://github.com/hinachkina/bug-reports)
 - [SQL Queries](https://github.com/hinachkina/SQL)
