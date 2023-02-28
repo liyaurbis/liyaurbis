@@ -18,11 +18,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/hinachkina/checklist)
-- [Test-Suites and Test-Cases](https://github.com/hinachkina/test-cases)
-- [Bug-Reports](https://github.com/hinachkina/bug-reports)
-- [SQL Queries](https://github.com/hinachkina/SQL)
-- [Postman Collections](https://github.com/hinachkina/postman)
+- [Checklists](https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=0)
+- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=1794829445)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=896905066)
+- [SQL Queries](https://docs.google.com/document/d/10-ej_h5BsnqqRCL7RpEUBxgZlHpYnTPXs92PO42Nu9Q/edit)
+- [Postman Collections](https://www.postman.com/aviation-administrator-74033545/workspace/17c352c7-64ca-4020-b2bd-628276b9e46d/collection/21387628-7199cad4-18d3-4dee-b472-0613c1f84b26?action=share&creator=21387628)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/noticemeoniiichan)
