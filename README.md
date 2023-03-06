@@ -25,6 +25,6 @@
 - [Postman Collections](https://www.postman.com/aviation-administrator-74033545/workspace/17c352c7-64ca-4020-b2bd-628276b9e46d/collection/21387628-7199cad4-18d3-4dee-b472-0613c1f84b26?action=share&creator=21387628)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/noticemeoniiichan)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/rbelleri)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinachkina&show_icons=true&theme=radical)
