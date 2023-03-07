@@ -18,9 +18,9 @@
 
 ### Testing Documentation
 
-- [Checklists](https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=0)
-- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=1794829445)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1D5PSc2IFpPYGlnuKYQperOAk5YRckkOk2OlK0qYq3v8/edit#gid=896905066)
+- [Checklists](https://docs.google.com/spreadsheets/d/1HjToC52C-IQfgdGD4AM0WW-3vivVJv7F2KrEUVY7d5g/edit#gid=0)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1HjToC52C-IQfgdGD4AM0WW-3vivVJv7F2KrEUVY7d5g/edit#gid=1384727421)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1HjToC52C-IQfgdGD4AM0WW-3vivVJv7F2KrEUVY7d5g/edit#gid=427202142)
 - [SQL Queries](https://docs.google.com/document/d/10-ej_h5BsnqqRCL7RpEUBxgZlHpYnTPXs92PO42Nu9Q/edit)
 - [Postman Collections](https://www.postman.com/aviation-administrator-74033545/workspace/17c352c7-64ca-4020-b2bd-628276b9e46d/collection/21387628-7199cad4-18d3-4dee-b472-0613c1f84b26?action=share&creator=21387628)
 
