@@ -1,6 +1,5 @@
-## I'm a QA Engineer. 
-## My CV
-[Link to my CV](https://docs.google.com/document/d/1sLy6z_bdvqUGtXlUiHARNTK9qO-LE_pC1-kNAnK1_N8/edit?usp=sharing)
+## Hello, world! I'm a QA Engineer. 
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
